@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+ <p align="center">
+ <a href="https://github.com/kyotodevindie">
+    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
+  </a>
+</p>
+  <h1 align="center">Hero</h1><p align="center">the Anime Catalog</p>
+  
+  <p align="center">
+    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+    <br />
+    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Prints -->
 
-## Available Scripts
+## Prints
 
-In the project directory, you can run:
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
+ 
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3ebe4Id7dghkea4Wo-WrCv-q882XnVTYVCaIVNT1nySSR64NhXb68QYIqNToPw_9MmctmOwnf5xEuW1SXYBAlSLRUVb-hEWuoq9BXppc4ndkGnWl4qBzpht3XYBP88cYN4D6rtElOA559OjNgGX56Lg=w1894-h896-no?authuser=0"  alt="print 1" width="600">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3c14MlQ9kX7cAQ7LmHWn2y6W8U7pLZMg-OOAOFWBQRVw_0lRq_O7ZvL3jHy3eVbfAzhKtlhgcl7k2rYlzxqgX2HqOEwJ-UiF9k_McU9Ief5RxVlZxYYFSWSlDCPoZxmskB_Z3aQOB4HQvtVceZkdPFJ=w1897-h901-no?authuser=0"  alt="print 2" width="600">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dUfQzu_lIJiX8Ryf-M6I3mB8qgKDt485FdFXBT7Y5O5Je9x8BWBWFAzCocgqWzQCAK2zuT0oAU7RBTeROpYrYzEiwcMnC7DKPHN9bbH3q-kc50E1KFuJ1l8l0HoSMlCfMxGUfpMBWBiY4ATCVBD10V=w1897-h907-no?authuser=0"  alt="print 3" width="600">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3ehDLqxkqib9EtrKEEURYkw40V0Jp9MtWpgM18q6c9AqZTDGfcFsdOs6TVH02yLLUM-fa67kuSovkOMUZ1i2hJcgxAeHYl-f2rNUSmq5mlTAn7YKgoJR9-hCvcLPTmwyvhg2EQ7liQf-jmIE2kbjWE0=w1897-h899-no?authuser=0"  alt="print 3" width="600">
 
-### `yarn start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Built With
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://pt-br.reactjs.org/)
+- [Next](https://nextjs.org/)
+- [Ant Design](https://ant.design/)
+- [Less Css](http://lesscss.org/)
 
-### `yarn test`
+### Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo
 
-### `yarn build`
+```sh
+git clone https://github.com/kyotodevIndie/anime-catalog-hero.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Install the packages using NPM or Yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+yarn
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+npm install
+```
+4. run the project
 
-### `yarn eject`
+```sh
+yarn dev
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```sh
+npm run dev
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+6. Happy coding!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- CONTRIBUTING -->
 
-## Learn More
+## Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Code Splitting
+<!-- LICENSE -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+Distributed under the MIT License. See `LICENSE` for more information.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Thank you!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
