@@ -4,7 +4,7 @@
   </a>
 </p>
   <p align="center">
-    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+    Tasks. é um projeto
     <br />
     <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
 </p>
