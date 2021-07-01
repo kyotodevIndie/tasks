@@ -4,9 +4,9 @@
   </a>
 </p>
   <p align="center">
-    Tasks. é um projeto
+    Tasks. is a to-do app
     <br />
-    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
+    <a href="https://vialaser-challenge.vercel.app/">View Demo</a>
 </p>
 
 <!-- Prints -->
@@ -30,18 +30,10 @@ git clone https://github.com/kyotodevIndie/tasks..git
 ```sh
 yarn
 ```
-
-```sh
-npm install
-```
 4. run the project
 
 ```sh
-yarn dev
-```
-
-```sh
-npm run dev
+yarn start
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -50,6 +42,27 @@ npm run dev
 
 <!-- CONTRIBUTING -->
 ## Utils
+
+1. Run the project
+```sh
+yarn start
+```
+2. Run the build
+```sh
+yarn build
+```
+3. Run the unitary tests
+```sh
+yarn test
+```
+4. Run the EsLint 
+```sh
+yarn lint
+```
+4. Run the EsLint Fix
+```sh
+yarn lintFix
+```
 
 
 ## Contributing
