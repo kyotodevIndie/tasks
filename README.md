@@ -41,7 +41,7 @@ yarn start
 6. Happy coding!
 
 <!-- CONTRIBUTING -->
-## Utils
+### Utils
 
 1. Run the project
 ```sh
