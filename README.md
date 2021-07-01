@@ -22,7 +22,7 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kyotodevIndie/anime-catalog-hero.git
+git clone https://github.com/kyotodevIndie/tasks..git
 ```
 
 3. Install the packages using NPM or Yarn
