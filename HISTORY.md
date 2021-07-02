@@ -2,9 +2,11 @@
 
 ### Ad astra Abssosque aventureiros
 
-sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver este projeto
+sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver este projeto!
 
-de inicio começamos com a velha e boa prototipação, demorada eu sei, mas necessaria para evitar possiveis merdas no caminho
+Como todo bom inicio de projeto, eu comecei com a velha e boa prototipação, demorada eu sei, mas necessaria para definir oq precisa ser feito e a melhor forma de se fazer, respeitando a usabilidade e as premissas de Ux.
+Esse foi a versão final do wireframe :
+    <img src="https://drive.google.com/file/d/1pH6cPGNnJmKv5UGT6Uhx2GNNJruJ0qla/view?usp=sharing" alt="Wireframe" />
 
 depois de buscar por um tempo por referencias pela web para me inspirar, fui desenhando pouco a pouco um wireframe com tudo aquilo q precisavamos nesse projeto
 
