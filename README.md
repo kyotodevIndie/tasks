@@ -4,7 +4,7 @@
   </a>
 </p>
   <p align="center">
-    Tasks. is a to-do app
+    Tasks. is a todo list that saves your tasks in local storage
     <br />
     <a href="https://vialaser-challenge.vercel.app/">View Demo</a>
 </p>
@@ -16,8 +16,11 @@
 - [React](https://pt-br.reactjs.org/)
 - [Ant Design](https://ant.design/)
 - [Sass](https://sass-lang.com/)
-- LocalStorge
-- React-Testing-Library
+- [PropTypes](https://www.npmjs.com/package/prop-types)
+- [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Husky](https://www.npmjs.com/package/husky)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 ### Installation
 
