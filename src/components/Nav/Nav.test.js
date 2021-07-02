@@ -1,8 +1,8 @@
 import Nav from './Nav';
 
-import { screen, render, userEvent } from '../../tests/utils';
+import { screen, render } from '../../tests/utils';
 
-describe('Add Button Component', () => {
+describe('Nav Component', () => {
 	it('shold render the Nav', () => {
 		render(<Nav />);
 
