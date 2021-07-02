@@ -17,7 +17,10 @@ Depois de buscar por um tempo por referencias pela web para me inspirar, de queb
 
 
 
-depois de prototipar, hora de botar o lofi para tocar e secar a garrafa de café botando a mao na massa
+com o Wireframe pronto, podemos partir para a escolha de cores, fontes e na construção do prototipo de alta fidelidade.
+
+depois de mais algumas horas, chegamos a esse resultado: 
+<img src="src/assets/repositoryassets/prototype.png" alt="Wireframe" />
 
 resolvi utilizar o Ant Design nesse projeto para agilizar o css de alguns componentes(fala serio, fazer tudo do zero demanda um tempinho, coisa q a gente não tem, entao se ta lá, é pq da pra usar kkk)
 
