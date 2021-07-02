@@ -1,10 +1,10 @@
  <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
+    <img src="/src/assets/logo.svg" alt="Logo" >
   </a>
 </p>
   <p align="center">
-    Tasks. is a to-do app
+    Tasks. is a todo list that saves your tasks in local storage
     <br />
     <a href="https://vialaser-challenge.vercel.app/">View Demo</a>
 </p>
@@ -16,6 +16,11 @@
 - [React](https://pt-br.reactjs.org/)
 - [Ant Design](https://ant.design/)
 - [Sass](https://sass-lang.com/)
+- [PropTypes](https://www.npmjs.com/package/prop-types)
+- [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Husky](https://www.npmjs.com/package/husky)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 ### Installation
 
@@ -39,27 +44,26 @@ yarn start
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 6. Happy coding!
-
-<!-- CONTRIBUTING -->
+7. 
 ### Utils
 
-1. Run the project
+1. To run the project
 ```sh
 yarn start
 ```
-2. Run the build
+2. To run the build
 ```sh
 yarn build
 ```
-3. Run the unitary tests
+3. To run the tests
 ```sh
 yarn test
 ```
-4. Run the EsLint 
+4. To run the EsLint 
 ```sh
 yarn lint
 ```
-4. Run the EsLint Fix
+4. To run the EsLint Fix
 ```sh
 yarn lintFix
 ```
