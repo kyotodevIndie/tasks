@@ -1,0 +1,27 @@
+.footerContainer {
+    position: absolute;
+    top: 50%;
+    left: -3%;
+    transform: rotate(-90deg);
+    color: #fff;
+}
+
+@media (max-width: 720px) {
+    .footerContainer {
+        top: 90%;
+        left: 35%;
+        transform: rotate(0deg);
+    }
+}
+
+@media (max-width: 450px) {
+    .footerContainer {
+        left: 25%;
+    }
+}
+
+@media (max-width: 376px) {
+    .footerContainer {
+        left: 20%;
+    }
+}
