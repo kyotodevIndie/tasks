@@ -1,8 +1,8 @@
-# History
+# Tasks. History
 
-### Onde historias são contadas
+### Ad astra Abssosque aventureiros
 
-Ad astra Abssosque aventureiros, sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver este projeto
+sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver este projeto
 
 de inicio começamos com a velha e boa prototipação, demorada eu sei, mas necessaria para evitar possiveis merdas no caminho
 
