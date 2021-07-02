@@ -47,23 +47,23 @@ yarn start
 7. 
 ### Utils
 
-1. Run the project
+1. To run the project
 ```sh
 yarn start
 ```
-2. Run the build
+2. To run the build
 ```sh
 yarn build
 ```
-3. Run the tests
+3. To run the tests
 ```sh
 yarn test
 ```
-4. Run the EsLint 
+4. To run the EsLint 
 ```sh
 yarn lint
 ```
-4. Run the EsLint Fix
+4. To run the EsLint Fix
 ```sh
 yarn lintFix
 ```
