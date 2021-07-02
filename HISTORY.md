@@ -2,7 +2,7 @@
 
 ### Ad astra Abssosque aventureiros
 
-sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver o <img src="src/assets/logo.svg" alt="logo" />
+sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver o <img src="src/assets/logo.svg" alt="logo" width="25px"/>
 
 <p align="center">
 <img src="https://miro.medium.com/max/440/1*G2FX8NNBCtpD6goR9eTZtw.gif" alt="Wireframe" />
