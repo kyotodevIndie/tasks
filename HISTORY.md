@@ -13,7 +13,7 @@ Como todo bom inicio de projeto, eu comecei com a velha e boa prototipação, de
 
 Depois de buscar por um tempo por referencias pela web para me inspirar, de quebrar a cabeça e desenhar fui fazendo pouco a pouco um wireframe com tudo aquilo q precisavamos nesse projeto, e no final o Wireframe ficou assim :
 
-<img src="/src/assets/repositoryAssets/LowFidelity.png" alt="Wireframe" />
+<img src="src/assets/repositoryAssets/LowFidelity.png" alt="Wireframe" />
 
 
 
