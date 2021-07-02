@@ -1,6 +1,6 @@
  <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
+    <img src="./assets/logo.svg" alt="Logo" width="95" height="100">
   </a>
 </p>
   <p align="center">
