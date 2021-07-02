@@ -1,9 +1,9 @@
 import Footer from './Footer';
 
-import { screen, render, userEvent } from '../../tests/utils';
+import { screen, render } from '../../tests/utils';
 
-describe('Add Button Component', () => {
-	it('shold render the Nav', () => {
+describe('Footer Component', () => {
+	it('shold render the Footer', () => {
 		render(<Footer />);
 
 		screen.getByText('Made with ❤ by');
