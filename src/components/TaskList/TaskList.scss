@@ -1,0 +1,23 @@
+.taskListContainer {
+	img {
+		margin: 0px 80px !important;
+	}
+}
+
+.ant-card {
+	width: 500px;
+	height: 500px;
+}
+
+@media (max-width: 570px) {
+	.taskListContainer {
+		img {
+			margin: 0px 40px !important;
+		}
+	}
+	.ant-card {
+		width: 350px;
+		margin: 20px;
+		height: 500px;
+	}
+}
