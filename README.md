@@ -16,6 +16,8 @@
 - [React](https://pt-br.reactjs.org/)
 - [Ant Design](https://ant.design/)
 - [Sass](https://sass-lang.com/)
+- LocalStorge
+- React-Testing-Library
 
 ### Installation
 
@@ -39,8 +41,7 @@ yarn start
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 6. Happy coding!
-
-<!-- CONTRIBUTING -->
+7. 
 ### Utils
 
 1. Run the project
@@ -51,7 +52,7 @@ yarn start
 ```sh
 yarn build
 ```
-3. Run the unitary tests
+3. Run the tests
 ```sh
 yarn test
 ```
