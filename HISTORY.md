@@ -22,7 +22,15 @@ com o Wireframe pronto, podemos partir para a escolha de cores, fontes e na cons
 depois de mais algumas horas, chegamos a esse resultado: 
 <img src="src/assets/repositoryassets/prototype.png" alt="Wireframe" />
 
+
+Prontinho!! agora podemos colocar a mão na massa!
+<img src="https://media1.tenor.com/images/49323d54e1089c0cbe0bd7bb7938d6ad/tenor.gif?itemid=21921844" alt="cat" width="60px"/>
+
+
+De inicio rodamos um create-react-app,
+depois adicionei o node-sass para utilzar o Sass e assim agilizar um pouco a escrita do css
 resolvi utilizar o Ant Design nesse projeto para agilizar o css de alguns componentes(fala serio, fazer tudo do zero demanda um tempinho, coisa q a gente não tem, entao se ta lá, é pq da pra usar kkk)
+
 
 tambem inclui o Sass e usei o scss para agilizar um pouco a escrita do css
 
