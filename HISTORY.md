@@ -6,7 +6,8 @@ sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi dese
 
 Como todo bom inicio de projeto, eu comecei com a velha e boa prototipação, demorada eu sei, mas necessaria para definir oq precisa ser feito e a melhor forma de se fazer, respeitando a usabilidade e as premissas de Ux.
 Esse foi a versão final do wireframe :
-    <img src="https://photos.app.goo.gl/szURdToGiPBGCVV48" alt="Wireframe" />
+
+<img src="https://photos.app.goo.gl/szURdToGiPBGCVV48" alt="Wireframe" />
 
 depois de buscar por um tempo por referencias pela web para me inspirar, fui desenhando pouco a pouco um wireframe com tudo aquilo q precisavamos nesse projeto
 
