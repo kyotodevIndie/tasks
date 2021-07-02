@@ -2,7 +2,7 @@
 
 ### Ad astra Abssosque aventureiros
 
-sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver o <img src="src/assets/logo.svg" alt="logo" width="100px"/>
+sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver o <img src="src/assets/logo.svg" alt="logo" width="60px"/>
 
 <p align="center">
 <img src="https://miro.medium.com/max/440/1*G2FX8NNBCtpD6goR9eTZtw.gif" alt="Wireframe" />
@@ -24,7 +24,7 @@ depois de mais algumas horas, chegamos a esse resultado:
 
 
 Prontinho!! agora podemos colocar a mão na massa!
-<img src="https://media1.tenor.com/images/49323d54e1089c0cbe0bd7bb7938d6ad/tenor.gif?itemid=21921844" alt="cat" width="60px"/>
+<img src="https://media1.tenor.com/images/49323d54e1089c0cbe0bd7bb7938d6ad/tenor.gif?itemid=21921844" alt="cat" width="100px"/>
 
 
 De inicio rodamos um create-react-app,
