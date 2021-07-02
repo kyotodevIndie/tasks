@@ -3,6 +3,8 @@
 ### Ad astra Abssosque aventureiros
 
 sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi desenvolver este projeto!
+<img src="https://miro.medium.com/max/440/1*G2FX8NNBCtpD6goR9eTZtw.gif" alt="Wireframe" />
+
 
 Como todo bom inicio de projeto, eu comecei com a velha e boa prototipação, demorada eu sei, mas necessaria para definir oq precisa ser feito e a melhor forma de se fazer, respeitando a usabilidade e as premissas de Ux.
 Esse foi a versão final do wireframe :
