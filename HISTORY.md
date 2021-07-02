@@ -10,11 +10,12 @@ sentem-se a fogueira, peguem um marshmallow que hoje lhes contarei como foi dese
 
 
 Como todo bom inicio de projeto, eu comecei com a velha e boa prototipação, demorada eu sei, mas necessaria para definir oq precisa ser feito e a melhor forma de se fazer, respeitando a usabilidade e as premissas de Ux.
-Esse foi a versão final do wireframe :
 
-<img src="/src/assets/repositoryAssets/Low Fidelity.png" alt="Wireframe" />
+Depois de buscar por um tempo por referencias pela web para me inspirar, de quebrar a cabeça e desenhar fui fazendo pouco a pouco um wireframe com tudo aquilo q precisavamos nesse projeto, e no final o Wireframe ficou assim :
 
-depois de buscar por um tempo por referencias pela web para me inspirar, fui desenhando pouco a pouco um wireframe com tudo aquilo q precisavamos nesse projeto
+<img src="/src/assets/repositoryAssets/LowFidelity.png" alt="Wireframe" />
+
+
 
 depois de prototipar, hora de botar o lofi para tocar e secar a garrafa de café botando a mao na massa
 
