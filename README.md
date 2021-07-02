@@ -1,6 +1,6 @@
  <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="/src/assets/logo.svg" alt="Logo" width="95" height="100">
+    <img src="/src/assets/logo.svg" alt="Logo" >
   </a>
 </p>
   <p align="center">
