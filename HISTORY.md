@@ -35,8 +35,10 @@ resolvi utilizar o Ant Design nesse projeto para agilizar o css de alguns compon
 agora vem a parte mais chata na hora da configuração, o santo EsLint para rachar vossas cabeças ao meio ( um dia eu ainda saio na porrada com ele)
 Deu um bocadinho de erros inicialmente, mas felizmente nao demorou muito para resolver
 <img src="https://media1.tenor.com/images/d4b72b2c60faea27d5f5b4d357b28a05/tenor.gif?itemid=11326155" alt="cat" width="100px"/>
+Incui tambem o Prettier para deixar nosso codigo mais bonito e o Husky para evitar q aconteça um push para a branch com erros do Eslint
 
-enfim, por ultimo, mas nao menos importante, incluimos o react-testing-library para testar junto com o Jest ( que ja vem junto com o create-react-app ) e dar um boost nos testes unitarios da nossa aplicação
+
+enfim, por ultimo, mas nao menos importante, configuramos o react-testing-library ( que ja vem junto com o create-react-app ) para dar um boost nos testes unitarios da nossa aplicação
 
 P.S. quase esqueci do .editorconfig hehehe, colocamos ele tbm
 
